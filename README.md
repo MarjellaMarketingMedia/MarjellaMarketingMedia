@@ -1,10 +1,7 @@
-[![Marjella Marketing Media](https://media.giphy.com/media/xCjtQSGTeYedER480A/giphy.gif)](https://github.com/MarjellaMarketingMedia)
+[![Marjella Marketing Media](https://i.pinimg.com/originals/f1/ed/a4/f1eda4768df8d8135c779772f2833e88.gif)](https://github.com/MarjellaMarketingMedia)
 
-
-<h1 align="center">🏂Marjella Marketing Media🏂</h1>
+<h1 align="center">⚡️ Marjella Marketing Media ⚡️</h1>
 <h3 align="center">Passionate Software Developers from South Africa</h3>
-
-<img src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marjellamarketingmedia&label=Profile%20views&color=0e75b6&style=flat" alt="marjellamarketingmedia" /> </p>
 
