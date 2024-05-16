@@ -1,4 +1,4 @@
-<h1 align="center">Supreme AUTH. Marjella Marketing Media</h1>
+<h1 align="center">🏂Marjella Marketing Media🏂</h1>
 <h3 align="center">Passionate Software Developers from South Africa</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marjellamarketingmedia&label=Profile%20views&color=0e75b6&style=flat" alt="marjellamarketingmedia" /> </p>
